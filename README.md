@@ -1,1 +1,12 @@
-# 引导文件，自己使用
+# MSI B460M MORTAR 黑苹果 引导文件
+
+ - MSI B460M MORTAR
+ - i5-10500
+ - Fenvi FV-T919 BCM94360CD
+
+## 安装
+本引导高度依据个人喜好修改，默认无oc启动界面，隐藏不必要启动项，不修改win启动项。
+自行添加三码
+
+## 来自
+https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1861472
