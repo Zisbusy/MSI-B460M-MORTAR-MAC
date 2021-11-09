@@ -17,5 +17,12 @@
 升级 AppleALC-1.6.6    
 升级 LucyRTL8125Ethernet-1.1.0d12    
 
-## 来自
+## 感谢
+https://github.com/acidanthera/OpenCorePkg   
+https://github.com/acidanthera/WhateverGreen    
+https://github.com/acidanthera/VirtualSMC    
+https://github.com/acidanthera/NVMeFix    
+https://github.com/acidanthera/Lilu       
+https://github.com/acidanthera/AppleALC    
+https://github.com/Mieze/LucyRTL8125Ethernet    
 https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1861472
