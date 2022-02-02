@@ -12,6 +12,7 @@
  - 取消 HDMI DP 音频输出的屏蔽    
  - 取消 引导扫描限制    
  - 优化 OC 对 Win 的引导支持    
+
 2021-11-18    
  - 升级 OpenCore 0.7.5    
  - 升级 WhateverGreen-1.5.5    
