@@ -470,11 +470,7 @@
 		<array/>
 		<key>Security</key>
 		<dict>
-			<key>AllowNvramReset</key>
-			<true/>
 			<key>AllowSetDefault</key>
-			<false/>
-			<key>AllowToggleSip</key>
 			<false/>
 			<key>ApECID</key>
 			<integer>0</integer>
@@ -521,6 +517,8 @@
 				<false/>
 				<key>Flavour</key>
 				<string>OpenShell:UEFIShell:Shell</string>
+				<key>FullNvramAccess</key>
+				<false/>
 				<key>Name</key>
 				<string>UEFI Shell</string>
 				<key>Path</key>
@@ -580,8 +578,6 @@
 				<string>boot-args</string>
 			</array>
 		</dict>
-		<key>LegacyEnable</key>
-		<false/>
 		<key>LegacyOverwrite</key>
 		<false/>
 		<key>LegacySchema</key>
