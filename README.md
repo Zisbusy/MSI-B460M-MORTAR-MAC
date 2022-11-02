@@ -16,6 +16,7 @@
  - 升级 Lilu-1.6.2    
  - 升级 AppleALC-1.7.5     
  - 升级 NVMeFix-1.1.0     
+
 2022-05-04    
  - 升级 OpenCore 0.8.0    
  - 升级 WhateverGreen-1.5.8    
