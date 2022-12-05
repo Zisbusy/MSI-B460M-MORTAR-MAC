@@ -6,7 +6,7 @@
 
 ## 安装
 本引导高度依据个人喜好修改，默认无oc启动界面。请自行添加三码。     
-适用系统：Big Sur，Monterey。  
+适用系统：Ventura、Big Sur、Monterey。  
 ## 日志
 2022-12-05    
  - 优化显示参数    
