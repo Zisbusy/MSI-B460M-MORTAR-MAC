@@ -24,6 +24,7 @@ USB键盘从S3/S4/S5唤醒：任意键
 OC -> CPU 特征 -> Intel 虚拟化技术：允许     
 OC -> CPU 特征 -> Intel VT-D 技术：禁止     
 OC -> CPU 特征 -> CFG锁定：禁止     
+最后建议打开 D.T.M     
 
 ## 日志
 2022-12-05    
