@@ -3,6 +3,14 @@
  - MSI B460M MORTAR
  - i5-10500
  - Fenvi FV-T919 BCM94360CD
+ - 迪兰 5500XT
+
+# 注意
+从 5.5 版本开始不再支持集显，集显用户可以按以下提示进行修改。
+1. 删除 SSDT-RX 5500 XT.aml 文件以及的配置项
+2. 修改集成显卡缓冲帧 AAPL,ig-platform-id 的值为 BwCbPg==
+3. 删除注入的5500xt防黑屏参数 agdpmod=pikera
+
 
 ## 安装
 本引导高度依据个人喜好修改，默认无oc启动界面。请自行添加三码。     
