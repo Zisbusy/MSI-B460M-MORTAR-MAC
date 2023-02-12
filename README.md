@@ -18,7 +18,7 @@
 
 ## BIOS设置
 高级-PCle/PCI子系统设置     
- - Re-Size BAR Suppot:允许     
+ - Re-Size BAR Suppot：允许     
 
 高级-唤醒事件设置     
  - USB设备从S3/S4/S5唤醒：允许     
