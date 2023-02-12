@@ -40,6 +40,11 @@ OC CPU 特征
  - D.T.M 开启     
 
 ## 日志
+2023-02-12    
+ - 升级 OpenCore 0.8.8    
+ - 升级 Kexts    
+ - 支持 5500xt    
+ 
 2023-01-02    
  - 升级 OpenCore 0.8.7    
  - 升级 Kexts    
