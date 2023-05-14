@@ -32,9 +32,9 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-RX 5500 XT.aml</string>
+				<string>SSDT-RX5500XT.aml</string>
 				<key>Path</key>
-				<string>SSDT-RX 5500 XT.aml</string>
+				<string>SSDT-RX5500XT.aml</string>
 				<key>Enabled</key>
 				<true/>
 			</dict>
