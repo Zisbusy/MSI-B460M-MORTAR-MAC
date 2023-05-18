@@ -30,14 +30,6 @@
 				<key>Path</key>
 				<string>SSDT-EC-USBX.aml</string>
 			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-RX5500XT.aml</string>
-				<key>Path</key>
-				<string>SSDT-RX5500XT.aml</string>
-				<key>Enabled</key>
-				<true/>
-			</dict>
 		</array>
 		<key>Delete</key>
 		<array/>
