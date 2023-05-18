@@ -142,9 +142,7 @@
 				<key>device_type</key>
 				<string>Audio device</string>
 				<key>layout-id</key>
-				<data>AQAAAA==</data>
-				<key>No-hda-gfx</key>
-				<data>AAAAAA==</data>
+				<data>NAAAAA==</data>
 				<key>model</key>
 				<string>Realtek ALC1200 Audio</string>
 			</dict>
