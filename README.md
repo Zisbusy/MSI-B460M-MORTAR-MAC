@@ -45,6 +45,7 @@ OC CPU 特征
  - 升级 Kexts    
  - 取消 5500xt 注入    
  - 优化 原生电源管理 去除 SSDT-PLUG    
+ - 优化 B460m专用声卡ID 52    
  
 2023-02-12    
  - 升级 OpenCore 0.8.8    
