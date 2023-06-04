@@ -40,6 +40,12 @@ OC CPU 特征
  - D.T.M 开启     
 
 ## 日志
+2023-06-05    
+ - 升级 OpenCore 0.9.2    
+ - 升级 Kexts    
+ - 取消 5500xt 注入    
+ - 优化 原生电源管理 去除 SSDT-PLUG    
+ 
 2023-02-12    
  - 升级 OpenCore 0.8.8    
  - 升级 Kexts    
