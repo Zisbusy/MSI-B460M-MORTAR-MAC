@@ -15,9 +15,7 @@
 本引导高度依据个人喜好修改，默认无oc启动界面。请自行添加三码。     
 适用系统：Ventura、Big Sur、Monterey。  
 
-## BIOS设置
-高级-PCle/PCI子系统设置     
- - Re-Size BAR Suppot：允许     
+## BIOS设置 
 
 高级-唤醒事件设置     
  - USB设备从S3/S4/S5唤醒：允许     
