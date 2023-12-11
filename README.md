@@ -37,6 +37,9 @@ OC CPU 特征
  - D.T.M 开启     
 
 ## 日志
+2023-12-11    
+ - 关闭 ResizeAppleGpuBars    
+
 2023-06-15    
  - 升级 OpenCore 0.9.3    
  - 升级 Kexts    
