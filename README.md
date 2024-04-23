@@ -37,6 +37,9 @@ OC CPU 特征
  - D.T.M 开启     
 
 ## 日志
+2024-04-23    
+ - 降级 NVMeFix-1.1.0 以修复硬盘问题
+
 2023-12-11    
  - 关闭 ResizeAppleGpuBars    
 
